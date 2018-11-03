@@ -1,0 +1,7 @@
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\bin\Debug\LabJoker.exe.config
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\bin\Debug\LabJoker.exe
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\bin\Debug\LabJoker.pdb
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\obj\Debug\LabJoker.csprojAssemblyReference.cache
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\obj\Debug\LabJoker.csproj.CoreCompileInputs.cache
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\obj\Debug\LabJoker.exe
+C:\Bootcamp5\Classroom\LabJoker\LabJoker\obj\Debug\LabJoker.pdb
