@@ -10,7 +10,7 @@ namespace LabJoker
     {
 
 
-
+		//this is a comment
         public List<int> Comparison(Player player,  Draw draw)
         {
             var counters = new List<int>();
